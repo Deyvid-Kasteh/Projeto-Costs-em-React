@@ -15,8 +15,8 @@
       "name": "Filomena",
       "budget": "1500",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
@@ -26,30 +26,30 @@
       "name": "Hercules",
       "budget": "1500",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimentol"
       },
       "cost": 0,
       "services": [],
       "id": 3
     },
     {
-      "name": "Deyvid kasteh",
-      "budget": "80000",
+      "name": "Joaquim",
+      "budget": "1500",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "2",
+        "name": "Desenvolvimentol"
       },
       "cost": 0,
       "services": [],
       "id": 4
     },
     {
-      "name": "Joaquim",
-      "budget": "1500",
+      "name": "Deyvid Kasteh",
+      "budget": "80000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
