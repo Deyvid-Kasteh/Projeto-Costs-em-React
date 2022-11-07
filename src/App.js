@@ -11,6 +11,7 @@ import Projects from "./components/pages/projects";
 
 import Footer from "./components/layout/Footer";
 import Navbar from "./components/layout/Navbar";
+import Project from "./components/pages/Project";
 
 function App() {
   return (
@@ -24,6 +25,8 @@ function App() {
           <Route path="/projects" element={<Projects />} />
 
           <Route path="/newproject" element={<NewProject />} />
+
+          <Route path="/project/:id" element={<Project />} />
         </Routes>
       </Container>
 
